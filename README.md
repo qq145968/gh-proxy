@@ -10,10 +10,6 @@ https://yunmovie.site/
 
 演示站为公共服务，如有大规模使用需求请自行部署，演示站有点不堪重负
 
-![微信收款码200x200](https://github.com/qq145968/gh-proxy/assets/92039946/61e6a8cb-e2e2-43e6-addc-77d7e54e85bc)
-![支付宝收款码200x200](https://github.com/qq145968/gh-proxy/assets/92039946/1f658027-5c2b-448b-ab02-39873e584446)
-![QQ收款码200x200](https://github.com/qq145968/gh-proxy/assets/92039946/636c87d4-e22d-434f-a40a-3b6567d3d4f1)
-
 当然也欢迎[捐赠](#捐赠)以支持作者
 
 ## python版本和cf worker版本差异
