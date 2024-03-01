@@ -6,11 +6,13 @@ github release、archive以及项目文件的加速项目，支持clone，有Clo
 
 ## 演示
 
-[https://gh.api.99988866.xyz/](https://gh.api.99988866.xyz/)
+https://yunmovie.site/
 
 演示站为公共服务，如有大规模使用需求请自行部署，演示站有点不堪重负
 
-![imagea272c95887343279.png](https://img.maocdn.cn/img/2021/04/24/imagea272c95887343279.png)
+![微信收款码200x200](https://github.com/qq145968/gh-proxy/assets/92039946/61e6a8cb-e2e2-43e6-addc-77d7e54e85bc)
+![支付宝收款码200x200](https://github.com/qq145968/gh-proxy/assets/92039946/1f658027-5c2b-448b-ab02-39873e584446)
+![QQ收款码200x200](https://github.com/qq145968/gh-proxy/assets/92039946/636c87d4-e22d-434f-a40a-3b6567d3d4f1)
 
 当然也欢迎[捐赠](#捐赠)以支持作者
 
@@ -106,7 +108,7 @@ python版本默认走服务器（2021.3.27更新）
 
 ## 链接
 
-[我的博客](https://hunsh.net)
+[我的博客]()
 
 ## 参考
 
@@ -114,5 +116,9 @@ python版本默认走服务器（2021.3.27更新）
 
 ## 捐赠
 
-![wx.png](https://img.maocdn.cn/img/2021/04/24/image.md.png)
-![ali.png](https://www.helloimg.com/images/2021/04/24/BK9vmb.md.png)
+![微信收款码200x200](https://github.com/qq145968/gh-proxy/assets/92039946/61e6a8cb-e2e2-43e6-addc-77d7e54e85bc)
+![支付宝收款码200x200](https://github.com/qq145968/gh-proxy/assets/92039946/1f658027-5c2b-448b-ab02-39873e584446)
+![QQ收款码200x200](https://github.com/qq145968/gh-proxy/assets/92039946/636c87d4-e22d-434f-a40a-3b6567d3d4f1)
+
+
+
