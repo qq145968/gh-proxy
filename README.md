@@ -5,7 +5,7 @@
 github release、archive以及项目文件的加速项目，支持clone，有Cloudflare Workers无服务器版本以及Python版本
 
 ## 演示
-http://gh.wzdi.cn/
+https://gh.wzdi.cn/
 
 演示站为公共服务，如有大规模使用需求请自行部署，演示站有点不堪重负
 
