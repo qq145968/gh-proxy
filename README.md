@@ -19,7 +19,7 @@ http://gh.wzdi.cn/
 
 ## 使用
 
-直接在copy出来的url前加`https://gh.api.99988866.xyz/`即可
+直接在copy出来的url前加`http://gh.wzdi.cn/`即可
 
 也可以直接访问，在input输入
 
