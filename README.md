@@ -27,7 +27,7 @@ http://gh.wzdi.cn/
 
 访问私有仓库可以通过
 
-`git clone https://user:TOKEN@ghproxy.com/https://github.com/xxxx/xxxx` [#71](https://github.com/hunshcn/gh-proxy/issues/71)
+`git clone https://user:TOKEN@ghproxy.com/https://github.com/xxxx/xxxx` (https://github.com/qq145968/gh-proxy)
 
 以下都是合法输入（仅示例，文件不存在）：
 
